@@ -1,0 +1,6 @@
+{
+  "name": "MUERRO ERP Contable & Tributario",
+  "description": "Sistema ERP de contabilidad, tributación SII, remuneraciones LRE, facturación electrónica y gestión empresarial con multi-centro de costos para constructoras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
